@@ -1,4 +1,3 @@
-# Jpmorgan-quantitative-research-simulation
 # JPMorgan Credit Risk Analysis Simulation
 
 This project was completed as part of the JPMorgan Chase & Co. Quantitative Research Virtual Internship. It focuses on predicting customer credit risk and quantizing FICO scores using Python and basic machine learning concepts.
